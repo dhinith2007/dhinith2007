@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Dhinith+Pragalyan+M;Machine+Learning+Enthusiast;Python+Developer;Data+Science+Explorer;Welcome+to+my+GitHub+Profile">
+</p>
 # 🚀 Hi, I'm Dhinith Pragalyan M
 Machine Learning Enthusiast | Python Developer | Data Science Explorer
 

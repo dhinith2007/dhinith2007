@@ -247,3 +247,6 @@ Key Concepts
 "Turning ideas into intelligent systems through code."
 
 Feel free to explore my repositories and star ⭐ the ones you find useful!
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/dhinith2007/dhinith2007/blob/output/github-contribution-grid-snake.svg)

@@ -1,79 +1,124 @@
-🚀 Dhinith Pragalyan M
-Computer Science Engineer | Machine Learning Enthusiast | Python Developer
-
-Hello! I'm Dhinith Pragalyan M, a Computer Science Engineering student at Panimalar Engineering College with a strong passion for Artificial Intelligence, Data Science, and Software Development.
-
-I enjoy building intelligent systems that solve real-world problems using Machine Learning, Python, and Data Analysis techniques. My journey in technology started with curiosity about how systems work, and it has evolved into building practical solutions through coding, data-driven insights, and continuous learning.
-
-I have completed internships in Data Analytics, Data Science, and Cloud Computing, where I worked on real-world datasets, machine learning models, and automation tools.
-
+🚀 Hi, I'm Dhinith Pragalyan M
+Machine Learning Enthusiast | Python Developer | Data Science Explorer
+<p align="center"> <a href="https://linkedin.com/in/your-linkedin"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/yourusername"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"> </a> <a href="https://leetcode.com/yourusername"> <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"> </a> <a href="https://instagram.com/yourusername"> <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"> </a> </p>
 👨‍💻 About Me
+public class DhinithPragalyan {
 
-🎓 B.E. Computer Science Engineering – Panimalar Engineering College
+    String role = "Computer Science Engineering Student";
+    
+    String[] interests = {
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Backend Development",
+        "Data Science"
+    };
 
-📊 Completed Data Analytics Internship – TANSAM
+    String[] currentlyLearning = {
+        "Advanced Machine Learning",
+        "Backend Development",
+        "Cloud Computing",
+        "AI Systems"
+    };
 
-🤖 Completed Data Science Internship – CodSoft
+    String goal = "Build intelligent systems that solve real-world problems";
 
-☁️ Completed Cloud Computing Internship – InternPro
+    public void dailyRoutine() {
+        solveLeetCodeProblems();
+        buildProjects();
+        learnNewTechnologies();
+        improveCodingSkills();
+    }
+}
 
-💡 Interested in Artificial Intelligence, Machine Learning, and Backend Development
+I am a Computer Science Engineering student at Panimalar Engineering College with a strong passion for Artificial Intelligence, Machine Learning, and Data Science.
 
-🚀 Currently building AI-powered applications and automation tools
+I believe in learning by building real-world projects and continuously improving my skills through internships, problem solving, and hands-on experimentation.
 
-I strongly believe in learning by building projects, which is why I continuously work on real-world projects that strengthen my technical skills.
+⚡ Highlights
 
-🛠️ Technical Skills
-Programming Languages
+☕ Strong foundation in Python, Java, OOP, and Data Structures
+📊 Experience in Machine Learning and Data Analysis
+💻 Building AI-powered applications and automation tools
+📈 Completed multiple technical internships
+🎯 Solving coding problems regularly to improve algorithmic thinking
+🚀 Focused on building impactful software solutions
 
-Python
+🛠️ Tech Stack
+💻 Programming Languages
 
-Java
 
-SQL
 
-JavaScript
 
-Data Science & Machine Learning
 
-Pandas
 
-NumPy
 
-Scikit-learn
 
-Data Visualization
+🌐 Web Development
+
+
+
+
+
+
+
+
+📊 Data Science & Machine Learning
+
+
+
+
+
+
+
+
+🧰 Tools & Platforms
+
+
+
+
+
+
+
+
+📚 Currently Learning
+🤖 Artificial Intelligence & Data Science
 
 Machine Learning Algorithms
 
-Data Preprocessing
+Model Evaluation Techniques
 
-Web Development
+Data Visualization
 
-HTML
+Feature Engineering
 
-CSS
+☁️ Cloud Computing
 
-JavaScript
+AWS Fundamentals
 
-React (Learning)
+CI/CD Pipelines
 
-Tools & Technologies
+Cloud Deployment
 
-Git & GitHub
+🌐 Backend Development
 
-Visual Studio Code
+REST APIs
 
-Power BI
+Server-side development
 
-Jupyter Notebook
+Database integration
 
-Google Colab
+💻 Core Computer Science
 
-📊 Projects
-1️⃣ Titanic Survival Prediction
+Data Structures & Algorithms
 
-A Machine Learning classification model built to predict whether a passenger survived the Titanic disaster based on passenger data.
+Networking Basics
+
+System Design Concepts
+
+💡 Featured Projects
+🚢 Titanic Survival Prediction
+
+A Machine Learning classification model that predicts passenger survival using historical Titanic data.
 
 Technologies Used
 
@@ -85,35 +130,35 @@ Scikit-learn
 
 Random Forest
 
-Key Features
+Key Highlights:
 
-Data cleaning and preprocessing
+Data preprocessing
 
-Exploratory Data Analysis (EDA)
+Exploratory Data Analysis
 
 Model training and evaluation
 
-Confusion matrix and accuracy analysis
+Confusion matrix analysis
 
-2️⃣ Naive Bayes Sentiment Classifier
+💬 Naive Bayes Sentiment Classifier
 
-A manual implementation of the Naive Bayes algorithm for sentiment analysis.
+Implemented Naive Bayes algorithm manually for sentiment analysis.
 
-Key Concepts Implemented
+Key Features:
 
 Text preprocessing
 
 Probability calculations
 
-Manual Naive Bayes implementation
-
 Sentiment classification
 
-3️⃣ Auto File Organizer
+Model evaluation
 
-A Python GUI-based application that automatically organizes files into folders based on file types.
+📂 Auto File Organizer
 
-Features
+A Python GUI-based application that automatically organizes files into folders.
+
+Features:
 
 Graphical User Interface
 
@@ -121,70 +166,47 @@ Automatic file categorization
 
 Progress bar tracking
 
-Folder organization automation
+File management automation
 
-4️⃣ Data Preprocessing with OOP
+🧠 Data Preprocessing with OOP
 
-A project demonstrating object-oriented programming concepts applied to data preprocessing pipelines.
+Demonstrates object-oriented design for data preprocessing pipelines.
 
-Key Concepts
+Key Concepts:
 
-Class-based preprocessing architecture
+Modular data processing
 
-Modular code design
+Reusable components
 
-Reusable data transformation components
+Clean architecture
 
-📚 Certifications & Learning
-
-I continuously enhance my knowledge through professional courses and certifications.
-
-Courses completed or currently pursuing include:
-
-Machine Learning – NVIDIA
-
-Business Analytics – Cisco
-
-Data Science – IBM
-
-Cloud Computing – AWS
-
-SQL – Infosys
-
-Artificial Intelligence – Microsoft
-
-📈 GitHub Statistics
-
-I actively use **GitHub to build projects, collaborate, and improve my development skills.
-
-My GitHub repositories mainly focus on:
-
-Machine Learning projects
-
-Python automation tools
-
-Data analysis
-
-Backend development experiments
-
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"> </p>
 🏆 Achievements
 
-Completed multiple technical internships
+✔ Completed Data Analytics Internship – TANSAM
+✔ Completed Data Science Internship – CodSoft
+✔ Completed Cloud Computing Internship – InternPro
+✔ Built multiple Machine Learning projects
+✔ Active in hackathons and coding challenges
 
-Built real-world machine learning models
+🎯 2026 Goals
 
-Developed automation tools using Python
+✔ Build production-ready AI applications
+✔ Complete 200+ LeetCode problems
+✔ Build 5+ advanced projects
+✔ Contribute to open-source projects
+✔ Learn advanced cloud and backend systems
 
-Actively participating in hackathons and coding challenges
+🏆 Coding Profiles
+Platform	Profile
+💻 LeetCode	your-profile
+💼 LinkedIn	Dhinith Pragalyan
+🧑‍💻 GitHub	your-username
+📸 Instagram	your-profile
+📫 Let's Connect!
+<p align="center"> <a href="https://linkedin.com/in/your-linkedin"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"> </a> <a href="https://instagram.com/yourusername"> <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge"> </a> <a href="mailto:dhinithmuruganantham@gmail.com"> <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"> </a> </p>
 
-🎯 Current Focus
+⭐ Thanks for visiting my profile!
 
-I am currently focused on improving my knowledge in:
-
-Machine Learning & Artificial Intelligence
-
-Backend Development
-
-Cloud Computing
-
-AI-powered application development
+"Turning ideas into intelligent systems through code."

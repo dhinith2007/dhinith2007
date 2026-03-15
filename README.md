@@ -126,13 +126,13 @@ I believe in learning by building real-world projects and continuously improving
 ## 🚢 Titanic Survival Prediction
 A Machine Learning classification model that predicts passenger survival using historical Titanic data.
 
-**Technologies Used**
+Technologies Used
 - Python  
 - Pandas  
 - Scikit-learn  
 - Random Forest  
 
-**Key Highlights**
+Key Highlights
 - Data preprocessing  
 - Exploratory Data Analysis  
 - Model training and evaluation  
@@ -143,7 +143,7 @@ A Machine Learning classification model that predicts passenger survival using h
 ## 💬 Naive Bayes Sentiment Classifier
 Implemented Naive Bayes algorithm manually for sentiment analysis.
 
-**Key Features**
+Key Features
 - Text preprocessing  
 - Probability calculations  
 - Sentiment classification  
@@ -154,7 +154,7 @@ Implemented Naive Bayes algorithm manually for sentiment analysis.
 ## 📂 Auto File Organizer
 A Python GUI-based application that automatically organizes files into folders.
 
-**Features**
+Features
 - Graphical User Interface  
 - Automatic file categorization  
 - Progress bar tracking  
@@ -165,7 +165,7 @@ A Python GUI-based application that automatically organizes files into folders.
 ## 🧠 Data Preprocessing with OOP
 Demonstrates object-oriented design for data preprocessing pipelines.
 
-**Key Concepts**
+Key Concepts
 - Modular data processing  
 - Reusable components  
 - Clean architecture  
@@ -177,6 +177,14 @@ Demonstrates object-oriented design for data preprocessing pipelines.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dhinith2007&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhinith2007&theme=tokyonight">
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/DhinithPragalyanM?theme=dark&font=Karma&ext=contest">
 </p>
 
 ---
@@ -229,8 +237,8 @@ Demonstrates object-oriented design for data preprocessing pipelines.
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ Thanks for visiting my profile!
 
-**"Turning ideas into intelligent systems through code."**
+"Turning ideas into intelligent systems through code."
 
 Feel free to explore my repositories and star ⭐ the ones you find useful!

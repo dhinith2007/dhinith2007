@@ -61,7 +61,9 @@ I am a Computer Science Engineering student with a strong passion for Artificial
 I believe in learning by building real-world projects and continuously improving my skills through internships, problem solving, and hands-on experimentation.
 
 ---
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dhinith2007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 # ⚡ Highlights
 
 - Strong foundation in Python, Java, OOP, and Data Structures  

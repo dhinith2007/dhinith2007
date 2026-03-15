@@ -64,7 +64,6 @@ I believe in learning by building real-world projects and continuously improving
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dhinith2007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
----
 # ⚡ Highlights
 
 - Strong foundation in Python, Java, OOP, and Data Structures  
